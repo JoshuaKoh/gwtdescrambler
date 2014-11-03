@@ -1,0 +1,2 @@
+serviceClass: com.koh4theking.gwtdescrambler.client.GreetingService
+path: 892CC2D4CD7A84CB1FDF41E69FE5410D.gwt.rpc

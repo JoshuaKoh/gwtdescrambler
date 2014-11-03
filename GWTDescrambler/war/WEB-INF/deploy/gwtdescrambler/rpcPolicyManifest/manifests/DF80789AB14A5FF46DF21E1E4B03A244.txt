@@ -1,0 +1,2 @@
+serviceClass: com.koh4theking.gwtdescrambler.client.DescramblerService
+path: 29AA373C7280344FC1AE84F91E396342.gwt.rpc
